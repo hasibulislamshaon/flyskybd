@@ -10,7 +10,4 @@ This project is a web-based application that includes HTML, CSS, JavaScript, and
 - `webfonts/` - Contains web fonts used in the project.
 - `index.html` - Main HTML file for the project.
 
-## How to Use
-1. Clone this repository:
-   ```sh
-   git clone <your-repo-url>
+
